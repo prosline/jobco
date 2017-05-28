@@ -1,0 +1,1 @@
+{ "url": "postgres://marciodasilva@localhost:5432/jobco?sslmode=disable", "migration-folder": "migrations", "dump-file": "migrations/dump.sql", "seed-tables": [] }
