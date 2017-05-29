@@ -15,8 +15,9 @@
     ```
     pgmgr db migrate
     ```
+5. Create a file called secret.key and include the applicaiton secret key to it.
 
-5. Run the server
+6. Run the server
     ```
     cd $GOPATH/src/github.com/prosline/jobco
     go run main.go
